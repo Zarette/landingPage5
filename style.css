@@ -1,0 +1,159 @@
+.hero, .footer{
+    background-color: #1F2937;
+}
+
+.footer{
+    height: 50px;
+    width:auto;
+    color: #E5E7EB;
+    text-align: center;
+    padding-top: 8px;
+    margin-top: 40px;
+}
+
+.hero-main-text{
+    font-size: 48px;
+    font-style: bold;
+    color: #F9FAF8;
+    font-family: sans-serif;
+
+}
+
+#logo{
+    margin-top: 40px;
+}
+
+.heroe{
+    display: flex;
+}
+
+
+.imge{
+    padding: 0 290px;
+    margin-top: 60px;
+}
+.hero-secondary-text,.header-link-text, .pgr{
+    font-size: 18px;
+    color: #E5E7EB;
+    font-family: sans-serif;
+}
+
+.header-link-text{
+    display: flex;
+    justify-content: flex-end;
+    padding: 0px 200px ;
+
+    
+}
+
+.link{
+    text-decoration: none;
+    color: #E5E7EB;
+}
+
+.sgn{
+    border:  solid white;
+    color: whitesmoke;
+    background-color: #3882F6;
+    height: auto;
+    width: 70px;
+    text-align: center;
+    
+}
+h4{
+    display: inline-block;
+    padding: 0 20px;
+    text-align: top;
+    
+}
+
+.header-logo-text, .call-to-act{
+    font-size: 24px;
+    color: #F9FAF8;
+    font-family: sans-serif;
+}
+
+.info-header-text{
+    text-align: center;
+}
+.call-to-action{
+    background-color: #3882F6;
+    padding: 0 80px;
+    height: auto;
+    width: 70%;
+    margin: 0 90px;
+    display: flex;
+    margin-top: 50px;
+}
+
+
+
+
+.sign{
+    border: solid #E5E7EB;
+    height:auto;
+    width:80px;
+    text-align: center;
+    color: whitesmoke ;
+    margin-top: 90px;
+    margin-left: 190px;
+}
+
+
+
+
+.info-header-text{
+    font-size: 36px;
+    font-style: bold;
+    color: #1F2937;
+    font-family: sans-serif;
+}
+
+.quote{
+    background-color: #E5E7EB;
+    
+}
+
+.quote-text{
+    font-size: 36px;
+    font-style: light italic;
+    color: #1F2937;
+    font-family: sans-serif;
+}
+
+.author{
+    margin-left: 900px;
+}
+
+
+.images{
+    display: flex;
+    padding: 0 10px;
+
+}
+
+.image{
+    
+  margin-left: 5px; 
+
+    
+    
+}
+
+#name{
+    text-align: center;
+}
+
+.imagi{
+    
+    border: 5px solid #3882F6;
+    border-radius: 3px;
+    border-style: ridge;
+    
+}
+
+.call-to-act{
+    padding-top: 18px;
+    
+}
+
