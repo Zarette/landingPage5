@@ -1,3 +1,8 @@
+@media screen and (min-width:480px){
+    body{
+        background-color: whitesmoke;
+    }
+}
 .hero, .footer{
     background-color: #1F2937;
 }
